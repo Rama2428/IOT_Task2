@@ -7,8 +7,8 @@ use front end programs to design the interface (I used Visual Studio)
 ![Alt Text](url)
 
 ## Create a database
-1-create database (I named 'mydata')
-2-create a table inside the database( I named 'panel')
+1-create database (I named 'mydata') <br/>
+2-create a table inside the database( I named 'panel') <br />
 3-ِAdd the columns 
 ![Alt Text](url)
 
