@@ -6,9 +6,13 @@
 use front end programs to design the interface (I used Visual Studio)
 ![Alt Text](url)
 
-## Getting Started
+## Create a database
+1-create database (I named 'mydata')
+2-create a table inside the database( I named 'panel')
+3-ِAdd the columns 
+![Alt Text](url)
 
-### Dependencies
+## Connecting the database with the control interface
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
