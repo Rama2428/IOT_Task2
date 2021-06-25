@@ -14,4 +14,4 @@ use front end programs to design the interface (I used Visual Studio)  <br/>
 
 ## Connecting the database with the control interface
 Connect the code with the data then run it.<br/>
-![](url)
+![](images/connection.png)
